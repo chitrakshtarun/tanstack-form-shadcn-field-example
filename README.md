@@ -1,3 +1,5 @@
+
+
 # TanStack Form Shadcn Field Example
 
 Example implementation of TanStack Form and Shadcn Field.
@@ -8,6 +10,13 @@ Example implementation of TanStack Form and Shadcn Field.
 - Shadcn (Components)
 - TanStack Form (Form Library)
 - Zod (Schema Validation Library)
+
+### Getting Started
+
+```bash
+npm install
+npm run dev
+```
 
 ### Form Code:
 
